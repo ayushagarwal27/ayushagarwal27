@@ -1,23 +1,19 @@
-[//]: # (<img src='./assets/githubHeader.png' alt='Github Banner'>)
+[//]: # "<img src='./assets/githubHeader.png' alt='Github Banner'>"
 
-[//]: # ()
-[//]: # ([![Twitter Badge]&#40;https://img.shields.io/badge/-@ayushagarwwal027-1ca0f1?style=flat&labelColor=000000&logo=x&logoColor=white&link=https://twitter.com/Ipenywis&#41;]&#40;https://twitter.com/ayushagarwal027&#41;)
+[![Ayush's GitHub Banner](./assets/ayushagarwal27-space-shooter.gif)]()
 
-[//]: # ([![Linkedin Badge]&#40;https://img.shields.io/badge/-Ayush-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&#41;]&#40;https://www.linkedin.com/in/ayush-agarwal-145a20166/&#41;)
-
-[//]: # ()
-[//]: # (👋 Hello, I'm Ayush, full stack developer with a focus on building robust web applications using React and NodeJS.)
-
-[//]: # ()
-[//]: # ()
-[//]: # (📫 Feel free to reach out via email ayushagarwal.dev@gmail.com )
-
-[//]: # ()
-[//]: # (<br>)
+[//]: #
+[//]: # "[![Twitter Badge](https://img.shields.io/badge/-@ayushagarwwal027-1ca0f1?style=flat&labelColor=000000&logo=x&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/ayushagarwal027)"
+[//]: # "[![Linkedin Badge](https://img.shields.io/badge/-Ayush-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-agarwal-145a20166/)"
+[//]: #
+[//]: # "👋 Hello, I'm Ayush, full stack developer with a focus on building robust web applications using React and NodeJS."
+[//]: #
+[//]: #
+[//]: # "📫 Feel free to reach out via email ayushagarwal.dev@gmail.com "
+[//]: #
+[//]: # "<br>"
 
 ## 💼 Tech Stack:
-
-
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=javascript&logoColor=black)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=007acc&logo=typescript&logoColor=white)](#)
@@ -36,35 +32,23 @@
 [![Jet Brains Badge](https://img.shields.io/badge/-Jet%20brains-cb4469?style=for-the-badge&labelColor=cb4469&logo=jetbrains&logoColor=white)](#)
 [![Postman Badge](https://img.shields.io/badge/-postman-black?style=for-the-badge&labelColor=black&logo=postman)](#)
 
+[//]: # "[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-13AA52?style=for-the-badge&labelColor=white&logo=mongodb&logoColor=13AA52)](#)"
+[//]: # "[![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&labelColor=black&logo=spring&logoColor=6DB33F)](#)"
+[//]: # "[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&labelColor=black&logo=springboot&logoColor=6DB33F)](#)"
 
-
-[//]: # ([![MongoDB Badge]&#40;https://img.shields.io/badge/-MongoDB-13AA52?style=for-the-badge&labelColor=white&logo=mongodb&logoColor=13AA52&#41;]&#40;#&#41;)
-
-[//]: # ([![Spring]&#40;https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&labelColor=black&logo=spring&logoColor=6DB33F&#41;]&#40;#&#41;)
-[//]: # ([![Spring Boot]&#40;https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&labelColor=black&logo=springboot&logoColor=6DB33F&#41;]&#40;#&#41;)
 <!-- [![Redux Badge](https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#) -->
-
-
 
 <!-- [![ThreeJS Badge](https://img.shields.io/badge/-threejs-222222?style=for-the-badge&labelColor=black&logo=three.js&logoColor=white)](#)
 [![Styled Components Badge](https://img.shields.io/badge/-styled%20components-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=DB7093)](#) -->
 
 <!-- ## 🛠️ Tools: -->
 
-
-
-[//]: # (<br>)
-
-[//]: # ()
-[//]: # (## 📈 GitHub Stats)
-
-[//]: # ()
-[//]: # (<br>)
-
-[//]: # ()
-[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=ayushagarwal27&langs_count=7&theme=ayu-mirage&hide=dart&layout=compact&hide_border=true&&#41;]&#40;https://github.com/ayushCode27/github-readme-stats&#41;)
-
-[//]: # ([![Ayush's github stats]&#40;https://github-readme-stats.vercel.app/api?username=ayushagarwal27&count_private=true&theme=ayu-mirage&hide=dart&layout=compact&hide_border=true&hide_rank=true&#41;]&#40;https://github.com/ayushagarwal27/github-readme-stats&#41; )
-
-[//]: # ()
-
+[//]: # "<br>"
+[//]: #
+[//]: # "## 📈 GitHub Stats"
+[//]: #
+[//]: # "<br>"
+[//]: #
+[//]: # "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushagarwal27&langs_count=7&theme=ayu-mirage&hide=dart&layout=compact&hide_border=true&)](https://github.com/ayushCode27/github-readme-stats)"
+[//]: # "[![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushagarwal27&count_private=true&theme=ayu-mirage&hide=dart&layout=compact&hide_border=true&hide_rank=true)](https://github.com/ayushagarwal27/github-readme-stats) "
+[//]: #
