@@ -31,8 +31,8 @@
 [![POSTGRESQL Badge](https://img.shields.io/badge/-Postgre_SQL-3587bd?style=for-the-badge&labelColor=3587bd&logo=postgresql&logoColor=white)](#)
 [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=2496ED&logo=docker&logoColor=white)](#)
 [![AWS Badge](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&labelColor=232F3E&logo=amazonwebservices&logoColor=white)](#)
-[![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-45e6dd?style=for-the-badge&labelColor=45e6dd&logo=tailwind-css&logoColor=black)](#)
-[//]: # "[![Tokio Badge](https://img.shields.io/badge/-Tokio-000000?style=for-the-badge&labelColor=000000&logo=rust&logoColor=white)](#)"
+[![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-45e6dd?style=for-the-badge&labelColor=45e6dd&logo=tailwindcss&logoColor=black)](#)
+
 <!-- [![Redux Badge](https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#) -->
 
 <!-- [![ThreeJS Badge](https://img.shields.io/badge/-threejs-222222?style=for-the-badge&labelColor=black&logo=three.js&logoColor=white)](#)
