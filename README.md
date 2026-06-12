@@ -15,36 +15,32 @@
 
 ## 💼 Tech Stack:
 <!-- Languages -->
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=3776AB&logo=python&logoColor=white)](#)
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=007acc&logo=typescript&logoColor=white)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=javascript&logoColor=black)](#)
-[![Rust Badge](https://img.shields.io/badge/-Rust-B7410E?style=for-the-badge&labelColor=B0732B&logo=rust&logoColor=black)](#)
-[![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&labelColor=4479A1&logo=mysql&logoColor=white)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=flat&logo=typescript&logoColor=white)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=flat&logo=javascript&logoColor=black)](#)
+[![Rust Badge](https://img.shields.io/badge/-Rust-B0732B?style=flat&logo=rust&logoColor=black)](#)
+[![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)](#)
 
 <!-- AI & LLM Engineering -->
-[![Claude Badge](https://img.shields.io/badge/-Claude%20API-D97757?style=for-the-badge&labelColor=D97757&logo=claude&logoColor=white)](#)
-[![LangChain Badge](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&labelColor=1C3C3C&logo=langchain&logoColor=white)](#)
-[![n8n Badge](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&labelColor=EA4B71&logo=n8n&logoColor=white)](#)
-[![OpenAI Badge](https://img.shields.io/badge/-OpenAI%20API-412991?style=for-the-badge&labelColor=412991&logo=openai&logoColor=white)](#)
+[![Claude Badge](https://img.shields.io/badge/-Claude%20API-D97757?style=flat&logo=claude&logoColor=white)](#)
+[![LangChain Badge](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)](#)
+[![n8n Badge](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)](#)
+[![OpenAI Badge](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)](#)
 
 <!-- Fullstack & Cloud -->
-[![FastAPI Badge](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&labelColor=009688&logo=fastapi&logoColor=white)](#)
-[![NextJS Badge](https://img.shields.io/badge/-nextjs-black?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#)
-[![React Badge](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&labelColor=61dafb&logo=react&logoColor=black)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=3C873A&logo=node.js&logoColor=white)](#)
-[![POSTGRESQL Badge](https://img.shields.io/badge/-Postgre_SQL-3587bd?style=for-the-badge&labelColor=3587bd&logo=postgresql&logoColor=white)](#)
-[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=2496ED&logo=docker&logoColor=white)](#)
-[![AWS Badge](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&labelColor=232F3E&logo=amazonwebservices&logoColor=white)](#)
-[![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-45e6dd?style=for-the-badge&labelColor=45e6dd&logo=tailwind-css&logoColor=black)](#)
+[![FastAPI Badge](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](#)
+[![NextJS Badge](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white)](#)
+[![React Badge](https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=black)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node.js&logoColor=white)](#)
+[![POSTGRESQL Badge](https://img.shields.io/badge/-PostgreSQL-3587bd?style=flat&logo=postgresql&logoColor=white)](#)
+[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](#)
+[![AWS Badge](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)](#)
+[![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-45e6dd?style=flat&logo=tailwind-css&logoColor=black)](#)
 
 <!-- Tools -->
-[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=F05032&logo=git&logoColor=white)](#)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)
-[![Postman Badge](https://img.shields.io/badge/-postman-black?style=for-the-badge&labelColor=black&logo=postman)](#)
-
-[//]: # "[![Tokio Badge](https://img.shields.io/badge/-Tokio-000000?style=for-the-badge&labelColor=000000&logo=rust&logoColor=white)](#)"
-[//]: # "[![Express Badge](https://img.shields.io/badge/-Express-ddd?style=for-the-badge&labelColor=ddd&logo=express&logoColor=black)](#)"
-[//]: # "[![Jet Brains Badge](https://img.shields.io/badge/-Jet%20brains-cb4469?style=for-the-badge&labelColor=cb4469&logo=jetbrains&logoColor=white)](#)"
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](#)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](#)
+[![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](#)
 
 <!-- [![Redux Badge](https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#) -->
 
